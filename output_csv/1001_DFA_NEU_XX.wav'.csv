@@ -1,0 +1,6 @@
+file,start,end,jitterLocal_sma3nz,shimmerLocaldB_sma3nz,Loudness_sma3
+./ESD_en/Crema/1001_DFA_NEU_XX.wav,0 days 00:00:00,0 days 00:00:00.020000,0.0,0.0,0.10940226
+./ESD_en/Crema/1001_DFA_NEU_XX.wav,0 days 00:00:00.010000,0 days 00:00:00.030000,0.0,0.0,0.10831263
+./ESD_en/Crema/1001_DFA_NEU_XX.wav,0 days 00:00:00.020000,0 days 00:00:00.040000,0.0,0.0,0.1062555
+./ESD_en/Crema/1001_DFA_NEU_XX.wav,0 days 00:00:00.030000,0 days 00:00:00.050000,0.0,0.0,0.109579705
+./ESD_en/Crema/1001_DFA_NEU_XX.wav,0 days 00:00:00.040000,0 days 00:00:00.060000,0.0,0.0,0.11077601
